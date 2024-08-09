@@ -26,7 +26,7 @@ Let's connect and collaborate:
 
 - LinkedIn: [Muhammad Zohaib] (https://www.linkedin.com/in/rana-zohaib-677183287)
 - Email: ranazohaib6210@gmail.com
-- GitHub: [YourGitHubUsername] (https://github.com/itx-rajpoot)
+- GitHub: [itx-rajpoot] (https://github.com/itx-rajpoot)
 
 Feel free to reach out to me if you want to discuss projects, technology, or anything interesting!
 
